@@ -1,0 +1,74 @@
+.order-cart-block .product-box .box-head .info-wrap .weight,
+.order-cart-block .product-box .box-head .info-wrap .note{
+    font-size: 12px;
+    line-height: 18px;
+}
+.magic-tags{
+    display: none;
+}
+.btnAcceptTOS{
+    line-height: 17px;
+}
+#cap-nhat-tai-khoan .modal-box>.box-main{
+    padding: 15px;
+}
+#cap-nhat-tai-khoan .modal-dialog{
+    padding: 0px;
+}
+.filter-aside  .filter-price{
+    overflow: hidden;
+    padding: 0 0 10px;
+}
+.filter-aside  .filter-price .panel-head{
+    padding: 10px 0px 10px 0;
+    display: inline-table;
+}
+.filter-aside .filter-price .panel-head::after {
+    content: "";
+}
+.filter-aside .filter-price.is-expand .panel-head::after {
+    content: "";
+}
+.filter-price .panel-title{
+    width: 30%;
+    float: left;
+    margin: 8px 0 0 0;
+}
+
+.filter-price #frmPriceRange{
+    width: 70%;
+    float: left;
+}
+
+.filter-price #fromPrice{
+    width: 35%;
+    display: initial;    height: 32px;
+}
+.filter-price #toPrice{
+    width: 35%;
+    display: initial;    height: 32px;
+}
+.filter-price #btnPriceRange{
+    width: 15%;
+    display: initial;
+    height: 32px;
+}
+
+.filter-aside .note-price{
+    color: #a21c20;
+}
+.page h1.title{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    height: 20px;
+    color: #b11e22;
+    white-space: nowrap;
+    display: inline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 10px;
+}
+iframe[name^='google_conversion_frame'] {
+  display: none;
+}

@@ -1,0 +1,26 @@
+.sidebar-aside .side-box .box-head .box-title{font-size:15px!important;}
+.ninja{display:none;}
+.val > sup{font-size:14px!important;}
+.merchantName{font-size:12px!important;overflow:hidden;}
+.journey-order-page .product-tb td.pd-price .detail-price .item{border-bottom:1px solid #eaeaea;padding:5px;font-size:13px;line-height:18px}
+.journey-order-page .product-tb td.pd-price .detail-price .item .val{display:block;color:#b11e22;text-align:right}
+.journey-order-page .product-tb td.pd-price .detail-price .item .lbl{display:block;margin-right:5px;font-weight:500;text-align:left}
+.journey-order-page .product-tb td.pd-price .price{text-align:center;color:#b11e22;font-weight:600;font-size:16px;line-height:1.4;margin-bottom:5px}
+.journey-order-page .product-tb tbody td.pd-info{text-align:left;vertical-align:top}
+.news-detail-block .share-wrap .fb-share-button{width:36px;position:absolute!important;top:14px;left:55px;opacity:0}
+.news-detail-block .share-wrap .fb-share-button iframe{width:35px!important;height:35px!important}
+.news-detail-block .share-wrap{position:relative}
+.relative-keyword a{margin:0 4px;color:#333}
+.header-block .main-cate-menu .sub-menu-box .lv3{margin-bottom:68px!important;}
+.datepicker {z-index: 50!important}
+#myChart{width: 100%;}
+.js-faqs-block ul{margin: 0 0 10px 20px}
+.error{color:#b11e22}
+.magic-tags{display: none;}
+.bootbox-facebook-like .modal-content{border-radius: 3px;}
+.support-scroll {top: 300px;}
+.bootbox-facebook-like .modal-dialog {width: 420px;margin: 17% auto 0 auto;}
+.news-page .main-col,.news-detail-page .main-col{float: right;}
+.category-promotion-page .block-title,.category-page .block-title  {font-size: 18px;line-height: 1.4;font-weight: 800;color: #b11e22;text-transform: uppercase;margin-bottom: 5px;}
+iframe[name^='google_conversion_frame'] {display: none;}
+.product-detail-block .price-box .box-head{padding:10px!important;}

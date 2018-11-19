@@ -1,0 +1,29 @@
+#google_translate_element .goog-te-gadget .goog-te-combo:focus, #google_translate_element .goog-te-gadget .goog-te-combo:hover {
+    border: 1px solid #d0d0d0;
+}
+#google_translate_element .goog-te-gadget .goog-te-combo {
+    height: 30px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    width: 230px;
+    margin: 0;
+    padding: 0 8px 0 30px;
+    cursor: pointer;
+    outline: 0;
+    background: #fff url(../img/icon-lang.png) no-repeat 8px center;
+}
+translateelement.css:2
+.goog-te-gadget .goog-te-combo {
+    margin: 4px 0;
+}
+translateelement.css:2
+.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * {
+    font-family: arial;
+    font-size: 10pt;
+}
+translateelement.css:2
+.goog-te-combo {
+    margin-left: 4px;
+    margin-right: 4px;
+    vertical-align: baseline;
+}

@@ -1,0 +1,30 @@
+.data-info {
+	float: left;
+    padding: 15px 0 14px;
+}
+
+th.sorting*>a {
+    display: block;
+    width: 100%;
+}
+th.un-sort>a, th.sorting>a, th.sorting_asc>a, th.sorting_desc>a {
+    text-decoration: none;
+    color: black;
+}
+th.un-sort>a:hover, th.un-sort>a:focus,th.sorting>a:hover, th.sorting>a:focus, th.sorting_asc>a:hover, th.sorting_asc>a:focus, th.sorting_desc>a:hover, th.sorting_desc>a:focus{
+    color: black;
+}
+th>a>p {
+    margin: 0px !important;
+}
+
+.modal form .portlet {
+	margin-bottom: 0px;
+}
+
+@media only screen and (max-width: 767px) {
+
+    .title-btn-action {
+        display: none;
+    }
+}
